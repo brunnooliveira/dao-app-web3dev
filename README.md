@@ -10,7 +10,8 @@ Para iniciar com esse projeto, clone o repo e siga esses comandos:
 ### **Perguntas?**
 Faça link da sua conta do Discord na [página no bootcamp](https://bootcamp.web3dev.com.br/courses/JS_DAO) para ter acesso aos canais de ajuda e monitores no servidor da WEB3DEV
 
-
+# ThirdWeb Dashboard
+https://thirdweb.com/dashboard
 # Contrato
 https://rinkeby.etherscan.io/address/0xa2345777f0F6445Ab6dC34ACa9740187Fb5CFeb3
 ```
@@ -28,3 +29,7 @@ https://rinkeby.etherscan.io/address/0xa2345777f0F6445Ab6dC34ACa9740187Fb5CFeb3
 
 # NFT da DAO
 https://testnets.opensea.io/assets/rinkeby/0xa2345777f0F6445Ab6dC34ACa9740187Fb5CFeb3/0
+
+# Token de governança (ERC-20)
+https://rinkeby.etherscan.io/address/0x7f60b7834f466798E435D0347ED1e6E5EC495cC2
+https://rinkeby.etherscan.io/token/0x7f60b7834f466798E435D0347ED1e6E5EC495cC2
