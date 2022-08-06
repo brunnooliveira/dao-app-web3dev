@@ -67,6 +67,16 @@ const App = () => {
     );
   }
 
+  // Adicione esse pedacinho!
+  if (hasClaimedNFT) {
+    return (
+      <div className="member-page">
+        <h1>🏄 Página dos membros da DAO</h1>
+        <p>Parabéns por fazer parte desse clube de kitesurfers!</p>
+      </div>
+    )
+  };
+
   // Renderiza a tela de cunhagem do NFT.
   return (
     <div className="mint-nft">
