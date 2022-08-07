@@ -33,3 +33,6 @@ https://testnets.opensea.io/assets/rinkeby/0xa2345777f0F6445Ab6dC34ACa9740187Fb5
 # Token de governança (ERC-20)
 https://rinkeby.etherscan.io/address/0x7f60b7834f466798E435D0347ED1e6E5EC495cC2
 https://rinkeby.etherscan.io/token/0x7f60b7834f466798E435D0347ED1e6E5EC495cC2
+
+# Contrato de votação
+✅ Módulo de votos implantado com sucesso no endereço: 0x188EF20801fc706820A7a05164fFC801A53e99F2
