@@ -169,7 +169,7 @@ const App = () => {
   // Renderiza a tela de cunhagem do NFT.
   return (
     <div className="mint-nft">
-      <h1>Cunhe gratuitamente seu NFT de membro 🚴 da MTBDAO</h1>
+      <h1>Cunhe gratuitamente seu NFT de membro 🏄 da KitePointDAO</h1>
       <button
         disabled={isClaiming}
         onClick={mintNft}
