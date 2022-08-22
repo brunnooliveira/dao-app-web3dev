@@ -1,5 +1,8 @@
 # WEB3DEV x thirdweb - construa sua própria DAO com apenas Javascript
 
+## Testnet Rinkeby live dapp
+https://kitepoint-dao-web3.netlify.app/
+
 ### **Bem vind@s 👋**
 Para rodar o projeto, clone o repo e siga esses comandos:
 
